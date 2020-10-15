@@ -145,7 +145,7 @@ Model 1
 
 - **GitHub:** https://github.com/ToxicBot-Discord/Toxic-Comment-Classification
 - **Kaggle:** https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/
-- **lgorithm:** GloVe Embedding and Recurrent Neural Network ( LSTM )
+- **Algorithm:** GloVe Embedding and Recurrent Neural Network ( LSTM )
 
 Model 2
 -------
